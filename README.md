@@ -10,3 +10,6 @@
 准确地预估CTR和CVR对于提高流量变现效率，提升广告主ROI（Return on Investment），保证用户体验等都有重要的指导作用。
 
 https://www.imooc.com/article/37712
+
+
+关于点击率模型，你知道这三点就够了http://www.meihua.info/a/65329
