@@ -15,3 +15,5 @@
 关于点击率模型，你知道这三点就够了http://www.meihua.info/a/65329
 
 CTR预估专栏 | 一文搞懂DeepFM的理论与实践https://xueqiu.com/9217191040/110099109
+
+腾讯社交广告曝光原理:广告怎么优化增大曝光量？https://www.jianshu.com/p/1061faa56d97
